@@ -1,4 +1,4 @@
-# AplicativoRestart-SwiftUI
+<h1 align="center">AplicativoRestart-SwiftUI</h1>
 
 <p align="center">Aplicativo desenvolvido através das aulas ministradas por Robert  Petras da Credo Academy.</p>
 
